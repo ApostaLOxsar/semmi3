@@ -7,3 +7,5 @@ git --version
 git status
 
 patch
+
+test mearge
