@@ -8,4 +8,4 @@ git status
 
 patch
 
-это изменение Дмитрия
+test mearge
