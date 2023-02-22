@@ -8,4 +8,6 @@ git status
 
 patch
 
-это изменение Дмитрия
+test mearge
+
+test rename
